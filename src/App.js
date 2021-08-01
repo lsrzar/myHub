@@ -43,9 +43,6 @@ function App() {
     }
     saveLocalTodos();
   }, [todos, status]);
-  //Functions & Events
-  
-  //Save to local
  
 
   return (
